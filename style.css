@@ -1,1 +1,21 @@
+body {
+  backround color: antiquewhite;
+}
 
+ol li { color: #D0E6E9; }
+
+h1 {
+  color: #C9F6A7; }
+
+h2 { 
+  color: #F8D493; }
+
+h3 {
+  color: #F2C8F7
+  border: dashed #020002; }  
+  
+p { 
+  color: #EE6870;
+  font-family: Helvetica;
+  font-size: large;
+}
