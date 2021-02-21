@@ -1,0 +1,33 @@
+<! Doctype html>
+
+<html>
+
+<head>
+
+<link rel="stylesheet" href="style.css"  
+
+</head>
+
+<title>Spy the Movie</title>	
+
+<h1> Spy the Movie: A movie about spys </h1>
+
+<body>
+
+<p><a href="https://sofiamina.github.io/web/site.html"> Landing Page </a></p>
+
+<h3> Introduction </h3>
+
+<p> Spy was released June 5th, 2015. It is has a rating of 95% on Rotten Tomatoes and made 235.7 million dollars in the box office. The movie follows CIA agent Susan Cooper
+(potrayed by Melissa Mcarthy) who works in a basement. She is given the oppurtunity to work in the "field" where she gets to directly stop huge crimes instead of just helping
+the other field workers from her computer. She is given different profiles or identity's and has to work with obnoxious field workers like Rick Ford (potrayed by Jason Statham). 
+She meets new people and has to go undercover to work with criminals. The plot is funny and exciting.
+<p><a href="https://www.rottentomatoes.com/m/spy_2015"> Rotten Tomatoe Review</a></p> 
+
+</p>
+
+</body>
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/91fZkt0T8oL._SY445_.jpg" alt="Spy movie cover image" style="width:500px;height:500px;">
+
+</html>
